@@ -1,0 +1,6 @@
+body { margin: 0; font-family: Arial, sans-serif; background: #eceff1; }
+.promo { max-width: 680px; margin: 80px auto; padding: 48px; background: white; }
+.promo__eyebrow { text-transform: uppercase; letter-spacing: .12em; }
+.promo__title { font-size: 48px; line-height: 1.05; }
+.promo__text { font-size: 20px; line-height: 1.6; }
+.promo__button { display: inline-block; margin-top: 20px; color: inherit; }
